@@ -1,5 +1,5 @@
 # 
-# QML Workshop, QPoland and QAIF, September 2025
+# Mini QML Workshop, Enquanted at Deakin, June 2026
 # - Auto-install with "pip install -r requirements.txt" command
 # 
 attrs==25.3.0
